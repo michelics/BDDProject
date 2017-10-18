@@ -33,21 +33,21 @@ formatter.match({
   "location": "SmokeTest.Open_the_Contact_Page()"
 });
 formatter.result({
-  "duration": 6569609311,
+  "duration": 7351584639,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest.Fill_the_fields_with_valid_value()"
 });
 formatter.result({
-  "duration": 393175518,
+  "duration": 370666061,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest.Page_should_show_Message_Sent()"
 });
 formatter.result({
-  "duration": 856393412,
+  "duration": 1027559423,
   "status": "passed"
 });
 });
