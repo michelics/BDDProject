@@ -1,6 +1,6 @@
-Feature: Send Contact
+Feature: Elias Nogueira Challenges
 
-  Scenario: Send Contact to Dbserver Page [90m# SentContact.feature:3[0m
-    [32mGiven [0m[32mOpen the Contact Page[0m           [90m# SmokeTest.Open_the_Contact_Page()[0m
+  Scenario: Auto Fill Fields              [90m# EliasNogueiraChallenges.feature:3[0m
+    [32mGiven [0m[32mOpen the Challenge Page[0m         [90m# SmokeTest.Open_the_Contact_Page()[0m
     [32mWhen [0m[32mFill the fields with valid value[0m [90m# SmokeTest.Fill_the_fields_with_valid_value()[0m
-    [32mThen [0m[32mPage should show Message Sent[0m    [90m# SmokeTest.Page_should_show_Message_Sent()[0m
+    [32mThen [0m[32mClean the Page[0m                   [90m# SmokeTest.Page_should_show_Message_Sent()[0m

@@ -1,22 +1,22 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("SentContact.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("EliasNogueiraChallenges.feature");
 formatter.feature({
   "line": 1,
-  "name": "Send Contact",
+  "name": "Elias Nogueira Challenges",
   "description": "",
-  "id": "send-contact",
+  "id": "elias-nogueira-challenges",
   "keyword": "Feature"
 });
 formatter.scenario({
   "line": 3,
-  "name": "Send Contact to Dbserver Page",
+  "name": "Auto Fill Fields",
   "description": "",
-  "id": "send-contact;send-contact-to-dbserver-page",
+  "id": "elias-nogueira-challenges;auto-fill-fields",
   "type": "scenario",
   "keyword": "Scenario"
 });
 formatter.step({
   "line": 4,
-  "name": "Open the Contact Page",
+  "name": "Open the Challenge Page",
   "keyword": "Given "
 });
 formatter.step({
@@ -26,28 +26,28 @@ formatter.step({
 });
 formatter.step({
   "line": 6,
-  "name": "Page should show Message Sent",
+  "name": "Clean the Page",
   "keyword": "Then "
 });
 formatter.match({
   "location": "SmokeTest.Open_the_Contact_Page()"
 });
 formatter.result({
-  "duration": 7351584639,
+  "duration": 6472601373,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest.Fill_the_fields_with_valid_value()"
 });
 formatter.result({
-  "duration": 370666061,
+  "duration": 381537758,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeTest.Page_should_show_Message_Sent()"
 });
 formatter.result({
-  "duration": 1027559423,
+  "duration": 21504203506,
   "status": "passed"
 });
 });
