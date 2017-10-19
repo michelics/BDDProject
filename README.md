@@ -17,4 +17,4 @@ Download Packages: (https://mvnrepository.com/ - search)
 
 Tutorial: https://www.youtube.com/watch?v=Vv7hHrVX_Zg
 
-This code is about the 4 challenge of Elias Nogueira blog: http://eliasnogueira.com/arquivos_blog/selenium/desafio/4desafio/
+This code is about the 4 challenge - Elias Nogueira blog: http://eliasnogueira.com/arquivos_blog/selenium/desafio/4desafio/
